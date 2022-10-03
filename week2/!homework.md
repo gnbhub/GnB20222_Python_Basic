@@ -1,4 +1,4 @@
-## ✏Week 2_Homework
+## ✏ Week 2_Homework
 '예제'는 교육자료의 example을 실습해보고, 'Lab'은 lab 문제 자료의 문제를 풀이하세요.
 
 문제는 Google Colaboratory로 풀이하며, 하나의 파일에 문제들을 각 코드 셀에 나누어 풀이해주세요.
