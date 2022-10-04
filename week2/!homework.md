@@ -36,11 +36,11 @@ ex1) 입력 : Enter a positive integer : -9
      출력 : Error! Please enter a positive integer.
      입력 : Enter a positive integer : 5
      출력 : *****
-            ***
-             *
+             ***
+              *
 
 ex2) 입력 : Enter a positive integer : 6
      출력 : ******
-            ****
-             **
+             ****
+              **
 ```
