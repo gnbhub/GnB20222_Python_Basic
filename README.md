@@ -1,6 +1,6 @@
 # GnB20222_Python_Basic
 A Study about Python Basic Syntax, etc
-- 매주 화요일 pm 7:00 ~ pm 9:00 동아리방
+- 매주 화요일 pm 6:00 ~ pm 8:00 동아리방
 - 멘토-멘티 방식의 강의 및 예제 풀이, 매주 과제 출제
 ## 스터디 진행 사항
 |날짜|목표|
