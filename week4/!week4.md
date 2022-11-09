@@ -12,7 +12,7 @@
 #### 2️⃣ ppt p.31 코드 실행 (.append(), .insert())
 
 
-#### 3️⃣ ppt p.37, 예제 8-27, p.40 (del, .remove(), .pop())
+#### 3️⃣ ppt p.37, 예제 8-27, p.40 (del, .remove(), .pop()) >> 코드 셀 나눠서 진행해주세요!!
 
 
 #### 4️⃣ 예제 8-30, p.45-46 (sorted(), .sort(), .reverse(), 깊은/얕은 복사)
